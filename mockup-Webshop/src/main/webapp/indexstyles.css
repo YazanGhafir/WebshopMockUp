@@ -10,7 +10,7 @@ and open the template in the editor.
 
 
 #indexcontainer{
-   
+background-color: #F8F9FA;
 }
 
 #aside{
@@ -25,3 +25,26 @@ and open the template in the editor.
 #main{
    
 }
+
+/*
+
+img {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-direction: alternate;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+*/
+
